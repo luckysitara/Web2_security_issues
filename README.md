@@ -29,8 +29,8 @@ This lab contains:
 
 1. Clone this repository
 \`\`\`bash
-git clone https://github.com/yourusername/web2-web3-security-lab.git
-cd web2-web3-security-lab
+git clone https://github.com/luckysitara/Web2_security_issues.git
+cd Web2_security_issues
 \`\`\`
 
 2. Install dependencies
