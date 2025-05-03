@@ -45,6 +45,13 @@ npm run dev
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
+## Live Demo
+
+A live demonstration of this project is available at:
+[working demo](http://104.236.10.65:3000)
+
+You can explore the vulnerable and secure implementations of various web2 security issues in web3 applications without having to set up the project locally. The live demo includes all the features described in this README.
+
 ## SSRF Vulnerability Demonstration
 
 The vulnerable admin dashboard implementation directly uses user input to form URLs for server-side requests without proper validation or restrictions. An attacker could exploit this vulnerability by providing URLs that point to internal services.
